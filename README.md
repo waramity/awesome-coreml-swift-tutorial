@@ -6,3 +6,5 @@
 * [Amazon Object Detection](https://betterprogramming.pub/build-an-object-detection-app-using-amazon-rekognition-amplify-and-swiftui-20b51dd0024b) - Build an Object Detection App Using Amazon Rekognition, Amplify, and SwiftUI 
 * [Coin Detection](https://betterprogramming.pub/new-in-ios-14-vision-contour-detection-68fd5849816e) - SwiftUI + Vision Contour Request — Coin Detection in iOS 
 * [Background Removal](https://betterprogramming.pub/coreml-image-segmentation-background-remove-ca11e6f6a083) -  Core ML Background Removal in SwiftUI. Use the DeepLabV3 image segmentation model. 
+* [Core ML from Scratch](https://towardsdatascience.com/creating-an-ios-app-with-core-ml-from-scratch-b9e13e8af9cb) - Creating an IOS app with Core ML from scratch! 
+* [Conversion tool](https://blog.gaelfoppolo.com/introduction-to-core-ml-conversion-tool-d1466bf10018) - Introduction to Core ML conversion tool 
